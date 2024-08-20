@@ -10,4 +10,5 @@
 ![CSS3](https://img.shields.io/badge/css-090909.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 
-Follow me
+## Connect with Me:
+![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=white)
